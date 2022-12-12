@@ -189,7 +189,7 @@ Belle-Mere: A recruit of few words, huh? Good- I’m not adverse to some peace a
 
 :: day
 You continue to follow the Captain around, unsure of yourself. She technically outranks you… is this some kind of test in patience?
-Belle-Mere: You like mikan oranges, (name?).
+Belle-Mere: You like mikan oranges, (name)?
 - Yes
     do increment("wd1.bellmere")
     => Part_3
@@ -221,7 +221,7 @@ do increment("wd1.tashigi")
 :: Mikan
 There are three trees down the path, deep emerald and dotted with small unripened fruit, and you settle in a bench nearby beneath their shade.
 PC: How long until the mikans ripen?
-Belle-mere: Hmm… I’d say a couple more months, at least. On a day as hot as this, it’s important to take care of yourself. I like to sit here and think sometimes…
+Belle-mere: Hmm… they're young trees. I'd say another eleven months before we get a good harvest, at least. On a day as hot as this, it’s important to take care of yourself. I like to sit here and think sometimes…
 PC: …like meditation?
 Belle-mere: Yeah? Yeah! That sounds more productive, doesn’t it? I mean, I train when I need to, but I think some people around here just don’t know how to enjoy life.
 PC: What kind of training do you prefer?
@@ -322,7 +322,7 @@ Belle-mére: You have a complaint?
         She looks pleased. She must really like riddles… or people who  answer them.
     - a track star
         Belle-mére:... You’re going to have to give me an explanation on that one, (name).
-        PC: Well, you can shave time off of youryou’re run-
+        PC: Well, you can shave time off of your run-
         Belle-mére:-boo! Weak answer, all around.
         PC: I thought it was clever!
         Belle-mére looks amused, snickering as she shakes her head.
